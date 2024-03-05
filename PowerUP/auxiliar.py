@@ -1,0 +1,8 @@
+##mapear posição no click
+
+import pyautogui
+import time
+
+time.sleep(5)
+print(pyautogui.position())
+
